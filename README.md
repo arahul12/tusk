@@ -9,7 +9,7 @@ Displays reached 640x480 (VGA) resolution by 1988 (Compaq SLT/286), and color sc
 ![pic sum](https://github.com/arahul12/tusk/blob/main/300px-Siemens_PCD-3Psx.jfif)
 Hard drives started to be used in portables, encouraged by the introduction of 3.5" drives in the late 1980s, and became common in laptops starting with the introduction of 2.5" and smaller drives around 1990; capacities have typically lagged behind physically larger desktop drives.
 
-They started as a more affordable version of the Contura line, but after that they replaced Contura as a mainstream laptop line, and then the hi-end Compaq LTE line were merged with Armada as a premium 7300 and 7700 sub-lines. ![pic sum](![pic sum](https://github.com/arahul12/tusk/blob/main/300px-Siemens_PCD-3Psx.jfif))
+They started as a more affordable version of the Contura line, but after that they replaced Contura as a mainstream laptop line, and then the hi-end Compaq LTE line were merged with Armada as a premium 7300 and 7700 sub-lines. ![pic sum](https://github.com/arahul12/tusk/blob/main/300px-Siemens_PCD-3Psx.jfif))
 
 
 
