@@ -25,7 +25,6 @@ Build | Code Quality | Unit Testing | [Git Inspector](using github.io option)
 Folder             | Description
 -------------------| -----------------------------------------
 `1-Requirements`   | Documents detailing requirements and research
-`2-Architecture`   | Documents specifying design details
-`3-Implementation` | All code and documentation
-`4-TestPlanAndOutput`  | Documents with test plans and procedures
-`5-Report`         | Documents with report 
+`2-Design   | Documents specifying design details
+`3-TestPlan`  | Documents with test plans and procedures
+`4-Implement`         | Documents with report 
