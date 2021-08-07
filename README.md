@@ -15,6 +15,8 @@ Hard drives started to be used in portables, encouraged by the introduction of 3
 The IdeaPad design marked a deviation from the business-oriented ThinkPad laptops, towards a more consumer-oriented look and feel
 more text with two line breaks
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Build | Code Quality | Unit Testing | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 |test|test|test|test|
