@@ -14,3 +14,16 @@ Hard drives started to be used in portables, encouraged by the introduction of 3
 4.)The IdeaPad laptops were announced in January 2008.The first three models in the product line were the Y710, the Y510, and the U110. Some of the features that defined these first three models were widescreens, VeriFace facial recognition, frameless screens, touch controls, and Dolby speaker systems. ![pic sum](https://github.com/arahul12/tusk/blob/main/330px-ThinkPad_X220.jpg)
 The IdeaPad design marked a deviation from the business-oriented ThinkPad laptops, towards a more consumer-oriented look and feel
 more text with two line breaks
+
+Build | Code Quality | Unit Testing | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+|test|test|test|test|
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1-Requirements`   | Documents detailing requirements and research
+`2-Architecture`   | Documents specifying design details
+`3-Implementation` | All code and documentation
+`4-TestPlanAndOutput`  | Documents with test plans and procedures
+`5-Report`         | Documents with report 
